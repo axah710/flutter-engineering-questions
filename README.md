@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | 📖 **Study** | Deep-dive into architecture, internals, and best practices |
-| 💼 **Interviews** | Prepare for senior Flutter / mobile engineering roles |
+| 💼 **Interviews** | Prepare for Flutter / mobile engineering roles |
 | 🔖 **Reference** | Quick lookup for patterns, lifecycle, and tooling |
 
 Each topic is in its **own file** per folder. Open a folder’s **README** for the full list and links.
