@@ -4,15 +4,6 @@
 
 ---
 
-## 🎯 Situation-based interview style
-
-All Q&A in this repo follows **situation-based** (scenario) interviews. Each question describes a concrete situation (e.g. “Your list screen becomes laggy with real data”, “A stakeholder wants a quick hack for a demo”) and asks how you would handle it.
-
-**Why situation-based?**  
-Many interviewers prefer situation-based questions because they reveal (1) whether the candidate **really knows the solution**—not just definitions or syntax—(2) **how they think** (reasoning, trade-offs, priorities), and (3) **how they would interact** if they faced the same situation on a real team. This format goes beyond memorized theory and reflects real-world judgment and communication.
-
----
-
 ## 💡 Why this repo?
 
 | | |
@@ -87,3 +78,10 @@ Security · crypto · privacy · accessibility · performance · rendering · me
 
 - **Q:** — full question  
 - **Key answers:** — short bullet list
+
+---
+
+## 🎯 Situation-based interview style
+
+- Q&A use **concrete situations** (e.g. “List screen is laggy with real data”, “Stakeholder wants a quick demo hack”) and ask how you’d handle them.
+- **Why:** Shows real solution knowledge (not just theory), reasoning and trade-offs, and how you’d behave on a real team.
