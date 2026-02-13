@@ -12,7 +12,7 @@
 | 💼 **Interviews** | Prepare for senior Flutter / mobile engineering roles |
 | 🔖 **Reference** | Quick lookup for patterns, lifecycle, and tooling |
 
-Every topic lives in its own folder with a single **`questions_and_answers.md`** file: **Q** → **Key answers** (no fluff, no resource links).
+Every topic lives in its own folder with a single **`questions_and_answers.md`** file: **Q** → **Key answers**.
 
 ---
 
